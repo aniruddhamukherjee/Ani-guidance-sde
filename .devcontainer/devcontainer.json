@@ -6,7 +6,7 @@
 	"service": "app",
 	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 	"features": {
-		"ghcr.io/devcontainer-config/features/dot-config:4": {}
+		"ghcr.io/devcontainer-config/features/dot-config:5": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
